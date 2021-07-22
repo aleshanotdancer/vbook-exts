@@ -1,8 +1,12 @@
 function execute(url) {
     var doc = Http.get(url).html();
-    var html = Http.get("https://www.ungtycomics.com/#comics-chapter" + chapId).string();
-    if (html) {
-        return Response.success(html);
+    var el = doc.select(".box-chapter-content img");
+    
+    var data = [];
+
+    for (var i = 0; i < el.size(); i++) {
+        var e = el.get(i);
+        data.push(e.attr("src"));
     }
-    return null;
+    return Response.success(data);
 }
