@@ -31,6 +31,8 @@ function execute(url) {
     });
     var data = request.string();
     var content = JSON.parse(data).data;
+    
+    doc.select("i[hd]").remove()
 
     content = content.replace(/&(amp|quot|lt|gt);/g, "");
     content = content.replace(/&nbsp;/g, " ");
