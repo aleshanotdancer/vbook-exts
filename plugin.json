@@ -1,11 +1,17 @@
 {
   "metadata": {
-    "author": "ỏn ỏn",
+    "author": "Alesha ỏn ỏn",
     "description": ""
   },
   "data": [
     {
-      
+      "name": "Sáng Tác Việt",
+      "author": "Nhocconsr, Fix: Ichickn + AleshaOnOn",
+      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/sangtacviet/plugin.zip",
+      "version": 4,
+      "source": "https://sangtacviet.com",
+      "icon": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/sangtacviet/icon.png",
+      "description": "Đọc truyện trên trang Sangtacviet.com"
     },
   ]
 }
