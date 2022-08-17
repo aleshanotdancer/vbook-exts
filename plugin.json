@@ -8,10 +8,12 @@
       "name": "Wattpad ver dịch",
       "author": "AleshaOnOn",
       "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/wattpad/plugin.zip",
-      "version": 4,
+      "version": 1,
       "source": "https://sangtacviet.com",
       "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/wattpad/icon.png",
-      "description": "Đọc truyện trên trang Wattpad"
+      "description": "Đọc truyện trên trang Wattpad",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     },
   ]
 }
