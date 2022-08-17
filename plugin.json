@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "author": "Alesha ỏn ỏn",
-    "description": ""
+    "author": "AleshaOnOn",
+    "description": "Yo, đây là mod Ỏn Ỏn, discord là Alesha, các thanh niên hay gọi là sa"
   },
   "data": [
     {
-      "name": "Sáng Tác Việt",
-      "author": "Nhocconsr, Fix: Ichickn + AleshaOnOn",
-      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/sangtacviet/plugin.zip",
+      "name": "Wattpad ver dịch",
+      "author": "AleshaOnOn",
+      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/wattpad/plugin.zip",
       "version": 4,
       "source": "https://sangtacviet.com",
-      "icon": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/sangtacviet/icon.png",
-      "description": "Đọc truyện trên trang Sangtacviet.com"
+      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/wattpad/icon.png",
+      "description": "Đọc truyện trên trang Wattpad"
     },
   ]
 }
