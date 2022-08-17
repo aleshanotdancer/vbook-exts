@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "name": "Wattpad",
-    "author": "vBook",
-    "version": 2,
+    "name": "Wattpad ver dich",
+    "author": "AleshaOnOn",
+    "version": 1,
     "source": "https://wattpad.com",
     "regexp": "(www.)?wattpad.com/story/\\d+.*?/?$",
     "description": "Đọc truyện trên trang Wattpad",
-    "local": "global",
+    "local": "zh_CN",
     "language": "javascript",
-    "type": "novel"
+    "type": "chinese_novel"
   },
   "script": {
     "home": "home.js",
