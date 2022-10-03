@@ -36,6 +36,17 @@
       "description": "Đọc truyện trên trang Xinyushuwu file gốc",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    },
+    {
+      "name": "Yyun",
+      "author": "AleshaOnOn",
+      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/Yyun/plugin.zip",
+      "version": 3,
+      "source": "https://www.yanyunxs.com",
+      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/Yyun/icon.png",
+      "description": "Đọc truyện trên trang Xinyushuwu file gốc",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     }
   ]
 }
