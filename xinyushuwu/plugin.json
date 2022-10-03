@@ -2,10 +2,10 @@
   "metadata": {
     "name": "xinyushuwu",
     "author": "AleshaOnOn",
-    "version": 1,
-    "source": "https://www.xinyushuwu.com",
+    "version": 2,
+    "source": "https://www.xinyushuwu.org",
     "regexp": "(www|m)\\.xinyushuwu\\.com/\\d+/\\d+/?",
-    "description": "Đọc truyện trên trang https://www.xinyushuwu.com. Hàng bị xóa của hajljnopera",
+    "description": "Đọc truyện trên trang https://www.xinyushuwu.org. Hàng bị xóa của hajljnopera",
     "local": "vi-VN",
     "language": "javascript",
     "type": "chinese_novel"

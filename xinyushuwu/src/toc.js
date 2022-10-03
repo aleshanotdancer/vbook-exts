@@ -1,8 +1,8 @@
 load('libs.js');
 
 function execute(url) {
-    var host = 'https://www.xinyushuwu.com';
-    url = url.replace('m.xinyushuwu.com', 'www.xinyushuwu.com').append('/');
+    var host = 'https://www.xinyushuwu.org';
+    url = url.replace('m.xinyushuwu.org', 'www.xinyushuwu.org').append('/');
     var doc = Http.get(url).html('gbk');
 
     var data = [];

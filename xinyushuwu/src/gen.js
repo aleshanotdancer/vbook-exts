@@ -1,7 +1,7 @@
 load('libs.js');
 
 function execute(url, page) {
-    var host = 'https://www.xinyushuwu.com';
+    var host = 'https://www.xinyushuwu.org';
     if (!page) page = '1';
     url = String.format(host + url, page);
     var doc = Http.get(url).html('gbk');
