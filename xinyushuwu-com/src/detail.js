@@ -2,7 +2,7 @@ load('libs.js');
 
 function execute(url) {
     var host = 'https://www.xinyushuwu.com';
-    url = url.replace('m.xinyushuwu.com', 'www.xinyushuwu.com').append('/');
+    url = url.replace('m.xinyushuwu.com', 'www.xinyushuwu.com', 'm.xinyushuwu.org').append('/');
     var doc = Http.get(url).html('gbk');
 
     var author = $.Q(doc, '.introduce a[href*="author"]').text();
