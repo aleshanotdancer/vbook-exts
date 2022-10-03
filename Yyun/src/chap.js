@@ -2,7 +2,7 @@ function execute(url) {
     url = url.replace('m.yanyunxs.com', 'www.yanyunxs.com');
 
     let cvData ="";
-    let part1 = url.replace("http://www.yanyunxs.com", "").replace("https://www.yanyunxs.com", "").replace(".html","");
+    let part1 = url.replace("http://m.yanyunxs.com", "").replace("https://www.yanyunxs.com", "").replace(".html","");
     var next = part1;
     while (next.includes(part1)) {
         let response = fetch("http://www.yanyunxs.com" + next +".html");
