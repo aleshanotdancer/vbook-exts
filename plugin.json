@@ -44,9 +44,21 @@
       "version": 2,
       "source": "https://www.yanyunxs.com",
       "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/Yyun/icon.png",
-      "description": "Đọc truyện trên trang Xinyushuwu file gốc",
+      "description": "Đọc truyện trên trang Yyun",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    },
+    {
+      "name": "MangaPuma",
+      "author": "AleshaOnOn",
+      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/mangapuma/plugin.zip",
+      "version": 1,
+      "source": "https://www.mangapuma.com",
+      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/mangapuma/icon.png",
+      "description": "Đọc truyện trên trang MangaPuma (clone web của MangaPuma)",
+      "type": "comic",
+      "locale": "en_EN",
+      "tag" : "nsfw"
     }
   ]
 }
