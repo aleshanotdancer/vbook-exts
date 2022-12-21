@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Haiwaishuwu",
     "author": "AleshaOnOn",
-    "version": 4,
+    "version": 5,
     "source": "https://www.haiwaishuwu.com/",
     "regexp": "(www.)?haiwaishuwu.com//(b|book)/\\d+(/?|\\.html)",
     "description": "Đọc truyện trên trang https://www.haiwaishuwu.com/",
