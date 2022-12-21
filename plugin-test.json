@@ -23,7 +23,7 @@
       "source": "https://www.haiwaishuwu.com",
       "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/main/haiwaishuwu/icon.png",
       "description": "Đọc truyện trên trang Haiwaishuwu",
-      "type": "chinese_novel"3
+      "type": "chinese_novel",
       "locale": "zh_CN"
     }
     ]
