@@ -9,7 +9,7 @@
     "local": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"
-  }2
+  }
   "script": {
     "home": "home.js",
     "gen": "gen.js",
