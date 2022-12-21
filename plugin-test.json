@@ -7,10 +7,10 @@
     {
       "name": "Xinyushuwu",
       "author": "AleshaOnOn",
-      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/xinyushuwu/plugin.zip",
+      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/xinyushuwu/plugin.zip",
       "version": 2,
       "source": "https://xinyushuwu.com",
-      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/xinyushuwu/icon.png",
+      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/main/xinyushuwu/icon.png",
       "description": "Đọc truyện trên trang Xinyushuwu",
       "type": "chinese_novel",
       "locale": "zh_CN"
@@ -18,10 +18,10 @@
     {
       "name": "Haiwaishuwu",
       "author": "AleshaOnOn",
-      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/haiwaishuwu/plugin.zip",
+      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/haiwaishuwu/plugin.zip",
       "version": 1,
       "source": "https://www.haiwaishuwu.com",
-      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/haiwaishuwu/icon.png",
+      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/main/haiwaishuwu/icon.png",
       "description": "Đọc truyện trên trang Haiwaishuwu",
       "type": "chinese_novel",
       "locale": "zh_CN"
