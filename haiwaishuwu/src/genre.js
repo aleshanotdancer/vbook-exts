@@ -12,8 +12,8 @@ function execute() {
                 nav.push({ 
                     title: e.text(), 
                     input: input, 
-                    script: "gen.js" 
-                    })sort
+                    script: "gen.js"
+                    })
             }
 
         })
