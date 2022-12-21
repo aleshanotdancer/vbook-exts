@@ -8,7 +8,7 @@ function execute() {
         menu.forEach(e => {
             let c = e.select('a').attr("href");
             if(e.select('a').attr("href").includes("sort/","sort/0/")==false){
-                let input = "http://www.haiwaishuwu.com" + e.select('a').attr("href")
+                let input = "http://www.haiwaishuwu.com/" + e.select('a').attr("href")
                 nav.push({ 
                     title: e.text(), 
                     input: input, 

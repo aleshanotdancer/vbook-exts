@@ -1,5 +1,5 @@
 function execute(url) {
-	url = url.replace('m.haitang123.co', 'www.haitang123.co');
+	url = url.replace('www.haiwaishuwu.com');
     if(url.slice(-1) !== "/")
         url = url + "/";
 
