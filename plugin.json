@@ -55,7 +55,7 @@
       "version": 1,
       "source": "https://www.mangapuma.com",
       "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/main/mangapuma/icon.png",
-      "description": "Đọc truyện trên trang MangaPuma (clone web của MangaBuddy - tức )",
+      "description": "Đọc truyện trên trang MangaPuma (clone web của MangaBuddy - tức MangaForest)",
       "type": "comic",
       "locale": "en_EN",
       "tag" : "nsfw"
