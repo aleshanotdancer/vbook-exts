@@ -14,17 +14,6 @@
       "description": "Đọc truyện trên trang Xinyushuwu",
       "type": "chinese_novel",
       "locale": "zh_CN"
-    },
-    {
-      "name": "Haiwaishuwu",
-      "author": "AleshaOnOn",
-      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/haiwaishuwu/plugin.zip",
-      "version": 5,
-      "source": "https://www.haiwaishuwu.com",
-      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/main/haiwaishuwu/icon.png",
-      "description": "Đọc truyện trên trang Haiwaishuwu",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
     }
     ]
 }
