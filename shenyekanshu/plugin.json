@@ -2,7 +2,7 @@
   "metadata": {
     "name": "shenyebook",
     "author": "Moleys",
-    "version": 2,
+    "version": 3,
     "source": "http://www.shenyebook.com",
     "regexp": "(www.|m.)?shenyebook.com/(b|book)/\\d+(/?|\\.html)",
     "description": "Đọc truyện trên trang http://www.shenyebook.com",

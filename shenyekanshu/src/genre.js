@@ -1,7 +1,7 @@
 load('config.js');
 function execute() {
 
-    let response = fetch(BASE_URL);
+    let response = fetch(BASE_URL+"/category/");
     if (response.ok) {
         let doc = response.html();
         let menu = doc.select(".CGsectionTwo-left a")
