@@ -14,17 +14,6 @@
       "description": "Đọc truyện trên trang Xinyushuwu",
       "type": "chinese_novel",
       "locale": "zh_CN"
-    }/*,
-    {
-      "name": "Shenyekanshu",
-      "author": "Moleys",
-      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/shenyekanshu/plugin.zip",
-      "version": 2,
-      "source": "http://shenyekanshu.com",
-      "icon": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/shenyekanshu/icon.png",
-      "description": "Đọc truyện trên trang https://shenyekanshu.com",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    }*/
+    }
     ]
 }
