@@ -1,9 +1,10 @@
 # Vbook extensions
 Extensions for VBook app
+Author: AleshaOnOn
 
-Link download: https://bit.ly/vbookapp
+Link download apk: https://bit.ly/vbookapp
 
-Link github extensions này: https://raw.githubusercontent.com/seyah24/vbook-exts/main/plugin.json
+Link github extensions nafy: https://raw.githubusercontent.com/seyah24/vbook-exts/main/plugin.json
 
 Link hướng dẫn viết extension: https://github.com/Darkrai9x/vbook-extensions/blob/master/README.md
 
