@@ -7,10 +7,10 @@
     {
       "name": "Wattpad ver dịch",
       "author": "AleshaOnOn",
-      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/wattpad/plugin.zip",
+      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/wattpad/plugin.zip",
       "version": 1,
       "source": "https://wattpad.com",
-      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/wattpad/icon.png",
+      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/main/wattpad/icon.png",
       "description": "Đọc truyện trên trang Wattpad",
       "type": "chinese_novel",
       "locale": "zh_CN"
@@ -18,32 +18,21 @@
     {
       "name": "Cijige",
       "author": "AleshaOnOn",
-      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/cijige/plugin.zip",
+      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/cijige/plugin.zip",
       "version": 1,
       "source": "https://cijige.com",
-      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/cijige/icon.png",
+      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/main/cijige/icon.png",
       "description": "Đọc truyện trên trang Cijige",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "Xinyushuwu-com",
-      "author": "AleshaOnOn",
-      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/xinyushuwu-com/plugin.zip",
-      "version": 3,
-      "source": "https://xinyushuwu.com",
-      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/xinyushuwu-com/icon.png",
-      "description": "Đọc truyện trên trang Xinyushuwu file gốc",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
     {
       "name": "Yyun",
       "author": "AleshaOnOn",
-      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/Yyun/plugin.zip",
+      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/Yyun/plugin.zip",
       "version": 2,
       "source": "https://www.yanyunxs.com",
-      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/Yyun/icon.png",
+      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/main/Yyun/icon.png",
       "description": "Đọc truyện trên trang Yyun",
       "type": "chinese_novel",
       "locale": "zh_CN"
@@ -51,11 +40,11 @@
     {
       "name": "MangaPuma",
       "author": "AleshaOnOn",
-      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/master/mangapuma/plugin.zip",
+      "path": "https://raw.githubusercontent.com/seyah24/vbook-exts/main/mangapuma/plugin.zip",
       "version": 1,
       "source": "https://www.mangapuma.com",
-      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/master/mangapuma/icon.png",
-      "description": "Đọc truyện trên trang MangaPuma (clone web của MangaPuma)",
+      "icon": "https://raw.githubusercontent.com/seyah24/vbook-extensions/main/mangapuma/icon.png",
+      "description": "Đọc truyện trên trang MangaPuma (clone web của MangaBuddy - tức MangaForest)",
       "type": "comic",
       "locale": "en_EN",
       "tag" : "nsfw"

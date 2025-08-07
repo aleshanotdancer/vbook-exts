@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "Manga Puma",
-    "author": "Nhocconsr",
+    "author": "AleshaOnOn",
     "version": 1,
     "source": "https://mangapuma.com",
     "regexp": "(www.)?mangapuma.com/[0-9a-z-]+/?$",
